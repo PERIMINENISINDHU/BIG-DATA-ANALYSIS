@@ -2,7 +2,7 @@
 
 Company:Codtech it solutions
 
-Name:Perimeneni Sindhu
+Name:Perimineni Sindhu
 
 Intern id:CT6WRXQ
 
